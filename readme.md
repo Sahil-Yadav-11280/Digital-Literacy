@@ -11,7 +11,7 @@ This directory showcases both individual coding practice and collaborative works
 1. Screenshots of beginner-level challenges completed on competitive programming platforms (HackerRank, CodeChef, and HackerEarth).
 2. Evidence of Google Workspace collaboration, including screenshots of the Google Sheet collecting quiz responses.
 
-**Digital Literacy Awareness Quiz Link:** * https://forms.gle/zbu112Epynn8JqJQ6
+**Digital Literacy Awareness Quiz Link:** **https://forms.gle/zbu112Epynn8JqJQ6**
 
 ### `task-4-email-etiquette/`
 This folder focuses on digital communication and online responsibility. It contains the `social-media-checklist.md` file, which clearly lists 5 Do's and 5 Don'ts for responsible social media use tailored for college students to protect their emerging professional brands.
